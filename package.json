@@ -1,6 +1,6 @@
 {
   "name": "pageindex-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "LLM-agnostic document indexing for js/ts - bring your own LLM and text",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
