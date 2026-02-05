@@ -1,8 +1,8 @@
-# PageIndex JS 📑
+# PageIndex TS 📑
 
 **Build intelligent document indices for RAG and Agents.**
 
-`pageindex-js` converts documents Markdown into a hierarchical tree structure with semantic summaries. This structure gives your LLM a "map" of the document, allowing it to navigate large texts efficiently without getting lost in the context window.
+`pageindex-ts` converts documents Markdown into a hierarchical tree structure with semantic summaries. This structure gives your LLM a "map" of the document, allowing it to navigate large texts efficiently without getting lost in the context window.
 
 > 💡 **Inspiration:** This project is a TypeScript port and adaptation inspired by [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) (Python).
 
@@ -24,7 +24,7 @@ When you blindly chunk a large document (like a 50-page PDF) for RAG, you lose c
 ## Installation
 
 ```bash
-npm install pageindex-js
+npm install pageindex-ts
 ```
 
 ## Quick Start
@@ -37,7 +37,7 @@ We don't force you to use specific tools.
 ### 2. Usage (Markdown)
 
 ```typescript
-import { mdToTree } from 'pageindex-js';
+import { mdToTree } from 'pageindex-ts';
 import OpenAI from 'openai';
 
 // 1. Define your LLM function

@@ -11,7 +11,7 @@ We love your input! We want to make contributing to this project as easy and tra
 
 We use github to host code, to track issues and feature requests, and to accept pull requests.
 
-## Report bugs using Github's [issues](https://github.com/appad/pageindex-js/issues)
+## Report bugs using Github's [issues](https://github.com/appad/pageindex-ts/issues)
 
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
 

@@ -1,6 +1,6 @@
 {
   "name": "pageindex-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LLM-agnostic document indexing for js/ts - bring your own LLM and text",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -34,7 +34,7 @@
   "author": "Tandava Appadoo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tandava060/pageindex-js.git"
+    "url": "git+https://github.com/Tandava060/pageindex-ts.git"
   },
   "license": "MIT",
   "devDependencies": {
