@@ -31,7 +31,8 @@
     "llm",
     "ai"
   ],
-  "author": "",
+  "author": "Tandava Appadoo",
+  "repository": "https://github.com/Tandava060/pageindex-js",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.0",
