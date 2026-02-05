@@ -27,6 +27,9 @@ When you blindly chunk a large document (like a 50-page PDF) for RAG, you lose c
 npm install pageindex-ts
 ```
 
+## Tutorials
+- [Recursive Vectorless RAG Tutorial](https://github.com/Tandava060/pageindex-ts-tutorial): A complete guide on building a reasoning-based RAG system using `pageindex-ts` and LlamaParse.
+
 ## Quick Start
 
 ### 1. The "Bring Your Own" Philosophy
