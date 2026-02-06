@@ -71,7 +71,7 @@ const result = await mdToTree(markdown, docName, {
     });
 
 console.log(JSON.stringify(result.structure, null, 2));
----
+```
 
 ## How it Works
 
